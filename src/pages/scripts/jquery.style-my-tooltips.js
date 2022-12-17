@@ -1,6 +1,9 @@
 //style-my-tootltips by malihu (http://manos.malihu.gr)
 //plugin home http://manos.malihu.gr/style-my-tooltips-jquery-plugin
-(function($) {
+
+/* global $ */
+(function() {
+    var smtTooltip_delay;
     var methods = {
         init: function(options) {
             var defaults = {
@@ -127,4 +130,4 @@
             $.error("Method " + method + " does not exist");
         }
     };
-})(jQuery);
+})();

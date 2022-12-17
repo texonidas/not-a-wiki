@@ -1,0 +1,84 @@
+table.Faction {
+  border-collapse: collapse;
+}
+
+.Faction th,.Faction td {
+  border: 2px solid black;
+  padding: 3px;
+}
+.Faction td {
+  font-weight: bold;
+  padding: 10px;
+}
+.gsc-cursor-page  {
+  padding-right: 10px;
+}
+table.ManaColors {
+  border-collapse: collapse;
+}
+.ManaColors th,.ManaColors td {
+  border: 3px solid black;
+}
+.ManaColors td {
+  font-weight: bold
+}
+.gsc-cursor-page  {
+  padding: 4px;
+}
+table.numtable {
+  border-collapse: collapse;
+}
+.numtable tr:hover {
+  background-color: #ffffff
+}
+.numtable tr:hover {
+  background-color: #ffffff
+}
+.numtable th,.numtable td {
+  border: 3px solid #4c5b86;
+}
+.numtable td {
+  font-weight: bold
+}
+.gsc-cursor-page  {
+  padding: 4px;
+}
+table.imgtable {
+  border-collapse: collapse;
+}
+.imgtable th,.imgtable td {
+  border: none;
+}
+.imgtable td {
+  font-weight: bold
+}
+.gsc-cursor-page  {
+  padding: 4px;
+}
+.black_overlay {
+  display: none;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  z-index: 1001;
+  -moz-opacity: 0.8;
+  opacity: .80;
+  filter: alpha(opacity=80);
+}
+
+.white_content {
+  display: none;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 99%;
+  height: 50%;
+  padding: 16px;
+  border: 1px solid orange;
+  background-color: white;
+  z-index: 1002;
+  overflow: auto;
+}

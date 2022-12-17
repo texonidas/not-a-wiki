@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- <?php include "musicfamily.org/../scripts/header.html"; ?> -->
+<?php include "musicfamily.org/../scripts/header.html"; ?>
 <a id="rightbox " href="https://discord.gg/cq6zmQX"></a>
 <p>Welcome to <b>G00F's Not a Wiki</b> Realm Grinder <font face="Comic sans MS" size="3">"G00FBALL"</font> style without all the wiki adverts.
 <p><b><a target="_blank" href="https://discord.gg/cq6zmQX">Realm Grinder Chat on Discord</a></b></p>

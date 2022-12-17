@@ -13,3 +13,6 @@ error_log
 SiteMap/sitemap*
 _ad.log
 .vscode/
+node_modules/
+.cache/
+public
